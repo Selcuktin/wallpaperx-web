@@ -59341,7 +59341,7 @@ $0(){J.ac8(this.a.d,J.aW(this.b,"photos"))},
 $S:0}
 A.a6k.prototype={
 $2(a,b){var s=null
-return A.OM(s,new A.r5(A.anv(s,s,new A.nx(J.aW(J.aW(J.aW(this.a.d,b),"src"),"tiny"),1,s)),B.v8,s),B.i,s,s,s,s,s)},
+return A.OM(s,new A.r5(A.anv(s,s,new A.nx(J.aW(J.aW(J.aW(this.a.d,b),"src"),"original"),1,s)),B.v8,s),B.i,s,s,s,s,s)},
 $S:358}
 A.a6l.prototype={
 $0(){this.a.qV()},
